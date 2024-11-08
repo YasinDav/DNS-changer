@@ -9,7 +9,7 @@ Now it is possible to use the **DNS Changer** for
 > ### **Note** : look after, the **DNS Changer** just works on Windows
 ---
 # **Download**
-for download version 1.0 of the **DNS Changer** [click here]([https://github.com/YasinDav/DNS-changer/releases/tag/untagged-d185e82bcf023b319cf8](https://github.com/YasinDav/DNS-changer/releases/tag/application))
+for download version 1.0 of the **DNS Changer** [click here](https://github.com/YasinDav/DNS-changer/releases/tag/application)
 
 > ## Note : to use release , first clone the repo then put **.exe file** and **img folder** in the **same path**
 
